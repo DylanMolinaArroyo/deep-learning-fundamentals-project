@@ -84,9 +84,8 @@ The system was evaluated on three settings of increasing difficulty:
 
 ```
 deep-learning-fundamentals-project/
-├── Deep_Learning_Project.ipynb   # Main notebook (both modules, fully documented)
-├── paper/                        # Technical paper (LaTeX)
-│   ├── paper.pdf
+├── Deep_Learning_Project.ipynb   # Main notebook (both modules, fully documented)                   
+├── Ai_Project2_Deep_Learning_Paper.pdf # Technical paper (LaTeX)
 ├── README.md
 ```
 
@@ -114,7 +113,7 @@ scikit-learn  matplotlib  seaborn  pandas  numpy
 
 ## Technical Paper
 
-A full write-up in is available in [`paper/paper.pdf`](paper/paper.pdf), covering the introduction, theoretical framework (transfer learning, U-Net, Grad-CAM, CTC), methodology, results and analysis, and conclusions.
+A full write-up in is available in [`Ai_Project2_Deep_Learning_Paper.pdf`](Ai_Project2_Deep_Learning_Paper.pdf), covering the introduction, theoretical framework (transfer learning, U-Net, Grad-CAM, CTC), methodology, results and analysis, and conclusions.
 
 ---
 
