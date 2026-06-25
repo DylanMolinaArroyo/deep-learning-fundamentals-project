@@ -113,7 +113,7 @@ scikit-learn  matplotlib  seaborn  pandas  numpy
 
 ## Technical Paper
 
-A full write-up in is available in [`Ai_Project2_Deep_Learning_Paper.pdf`](Ai_Project2_Deep_Learning_Paper.pdf), covering the introduction, theoretical framework (transfer learning, U-Net, Grad-CAM, CTC), methodology, results and analysis, and conclusions.
+A full write-up in is available in [`AI_Project2_Deep_Learning_Paper.pdf`](AI_Project2_Deep_Learning_Paper.pdf), covering the introduction, theoretical framework (transfer learning, U-Net, Grad-CAM, CTC), methodology, results and analysis, and conclusions.
 
 ---
 
