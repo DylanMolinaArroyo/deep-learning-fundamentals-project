@@ -12,11 +12,11 @@ This repository contains the full implementation, experiments, and technical pap
 
 | Module | Task | Core models |
 |---|---|---|
-| **1 — Computer Vision** | Chest X-ray multi-class classification | ResNet-50, DenseNet-121 (transfer learning) |
-| **1 — Computer Vision** | Lung segmentation | U-Net |
-| **2 — Speech (CTC)** | Spoken-command recognition | CNN + BiGRU + CTC |
-| **2 — Speech (CTC)** | Sentence-level speech-to-text | CNN + BiGRU + CTC |
-| **2 — Speech (CTC)** | Sentence-level speech-to-text | CNN + BiGRU + CTC |
+| **1 - Computer Vision** | Chest X-ray multi-class classification | ResNet-50, DenseNet-121 (transfer learning) |
+| **1 - Computer Vision** | Lung segmentation | U-Net |
+| **2 - Speech (CTC)** | Spoken-command recognition | CNN + BiGRU + CTC |
+| **2 - Speech (CTC)** | Sentence-level speech-to-text | CNN + BiGRU + CTC |
+| **2 - Speech (CTC)** | Sentence-level speech-to-text | CNN + BiGRU + CTC |
 
 Everything runs cloud-first (no local downloads required): datasets are pulled via the Kaggle API / `kagglehub`, and checkpoints are saved to Google Drive.
 
